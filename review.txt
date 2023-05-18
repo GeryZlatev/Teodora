@@ -1,0 +1,10 @@
+ Защо има два отделни файла за стилове?
+ Разширението на файловете е сгрешено :
+ JavaScript файловете са с разширение js;
+ CSS - css;
+ HTML - html
+
+url: 'https://www.arcgis.com/sharing/rest/content/items/22b06b965fa94042a7af2fa95a025316
+message : "You do not have permissions to access this resource or perform this operation."
+
+Нямам достъп до картата, която се опитвате да имплементирате.
